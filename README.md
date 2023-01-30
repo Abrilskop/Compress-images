@@ -1,4 +1,4 @@
-# Compresion de img con Python
+# Compresion de imagenes con Python
 Este proyecto tiene la finalidad de crear un compresor de imagenes sin la perdida de calidad. 
 ## Introduccion
 La compresion de img es un proceso mediante el cual se reduce el tamaño de una img digital sin perder su calidad visual.
